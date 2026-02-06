@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
+      <div>
         Hello world
-     </di>
+     </div>
     </>
   )
 }
